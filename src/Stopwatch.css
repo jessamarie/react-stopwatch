@@ -27,3 +27,11 @@ button {
 button:hover{
   background: #356094;
 }
+
+.zero {
+  color: red;
+}
+
+button:disabled {
+  background-color: gray;
+}
